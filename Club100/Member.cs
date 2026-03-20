@@ -36,7 +36,7 @@ public class Member
         get => _count;
         set
         {
-            if (value < 100 || value > 1199)
+            if (value < 100 || value > 199)
             {
                 throw new ArgumentOutOfRangeException("Count skal være mellem 100 og 199.");
             }
