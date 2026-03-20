@@ -9,3 +9,4 @@
 /home/Mathias/RiderProjects/gammeltEksamenssæt/Club100/obj/Debug/net9.0/refint/Club100.dll
 /home/Mathias/RiderProjects/gammeltEksamenssæt/Club100/obj/Debug/net9.0/Club100.pdb
 /home/Mathias/RiderProjects/gammeltEksamenssæt/Club100/obj/Debug/net9.0/ref/Club100.dll
+/home/Mathias/RiderProjects/gammeltEksamenssæt/Club100/obj/Debug/net9.0/Club100.sourcelink.json

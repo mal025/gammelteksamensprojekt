@@ -99,3 +99,4 @@
 /home/Mathias/RiderProjects/gammeltEksamenssæt/Club100Test/obj/Debug/net9.0/Club100Test.pdb
 /home/Mathias/RiderProjects/gammeltEksamenssæt/Club100Test/obj/Debug/net9.0/Club100Test.genruntimeconfig.cache
 /home/Mathias/RiderProjects/gammeltEksamenssæt/Club100Test/obj/Debug/net9.0/ref/Club100Test.dll
+/home/Mathias/RiderProjects/gammeltEksamenssæt/Club100Test/obj/Debug/net9.0/Club100Test.sourcelink.json
