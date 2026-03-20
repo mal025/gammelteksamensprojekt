@@ -38,7 +38,7 @@ public class Member
         {
             if (value < 100 || value > 199)
             {
-                throw new ArgumentOutOfRangeException("Count skal være mellem 100 og 199.");
+                throw new ArgumentOutOfRangeException("Count skal være imellem 100 og 199.");
             }
             _count = value;
         }
