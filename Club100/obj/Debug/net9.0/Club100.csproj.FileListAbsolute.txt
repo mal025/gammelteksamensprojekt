@@ -1,0 +1,11 @@
+/home/Mathias/RiderProjects/gammeltEksamenssæt/Club100/bin/Debug/net9.0/Club100.deps.json
+/home/Mathias/RiderProjects/gammeltEksamenssæt/Club100/bin/Debug/net9.0/Club100.dll
+/home/Mathias/RiderProjects/gammeltEksamenssæt/Club100/bin/Debug/net9.0/Club100.pdb
+/home/Mathias/RiderProjects/gammeltEksamenssæt/Club100/obj/Debug/net9.0/Club100.GeneratedMSBuildEditorConfig.editorconfig
+/home/Mathias/RiderProjects/gammeltEksamenssæt/Club100/obj/Debug/net9.0/Club100.AssemblyInfoInputs.cache
+/home/Mathias/RiderProjects/gammeltEksamenssæt/Club100/obj/Debug/net9.0/Club100.AssemblyInfo.cs
+/home/Mathias/RiderProjects/gammeltEksamenssæt/Club100/obj/Debug/net9.0/Club100.csproj.CoreCompileInputs.cache
+/home/Mathias/RiderProjects/gammeltEksamenssæt/Club100/obj/Debug/net9.0/Club100.dll
+/home/Mathias/RiderProjects/gammeltEksamenssæt/Club100/obj/Debug/net9.0/refint/Club100.dll
+/home/Mathias/RiderProjects/gammeltEksamenssæt/Club100/obj/Debug/net9.0/Club100.pdb
+/home/Mathias/RiderProjects/gammeltEksamenssæt/Club100/obj/Debug/net9.0/ref/Club100.dll
