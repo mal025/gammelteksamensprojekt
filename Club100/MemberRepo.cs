@@ -38,7 +38,7 @@ public class MemberRepo
         return member;
     }
     
-    MemberRepo()
+    public MemberRepo()
     {
         
     }
